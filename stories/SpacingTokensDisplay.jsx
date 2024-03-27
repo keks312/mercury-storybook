@@ -5,51 +5,12 @@ import jsonTokens from './tokens.json';
 
 const SpacingTokensDisplay = () => {
 
-  // // Flatten the structure
-  // const result = Object.values(jsonTokens.global).reduce((acc, tokens) => {
-  //   Object.assign(acc, tokens);
-  //   return acc;
-  // }, {});
-
-  // const colorTokens = result;
-
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredTokens, setFilteredTokens] = useState(jsonTokens.global.spacings);
 
 
 console.log(jsonTokens.global.spacings)
-  // const handleMouseEnter = (e) => {
-  //   setIsHovered(true);
-  //   setTooltipPosition({ x: e.pageX, y: e.pageY });
-  // };
-
-  // const handleMouseLeave = () => {
-  //   setIsHovered(false);
-  //   setTooltipText('Copy to clipboard!')
-  // };
-
-  // const renderTooltip = (text) => {
-  //   return (
-  //     <div className="tooltip" style={{ position: 'absolute', top: tooltipPosition.y-20, left: tooltipPosition.x, transform: 'translate(-50%, -100%)' }}>{text}
-  //     </div>
-  //   );
-  // };
-
-
-  // const handleSearch = (e) => {
-  //     const { value } = e.target;
-  //     setSearchQuery(value);
-
-  //     // Filter tokens based on the search query
-  //     const filtered = Object.keys(colorTokens['color']).reduce((acc, tokenName ) => {
-  //       if (tokenName.toLowerCase().includes(value.toLowerCase())) {
-  //         acc[tokenName] = colorTokens['color'][tokenName];
-  //       }
-  //       return acc;
-  //     }, {});
-
-  //     setFilteredTokens(filtered);
-  // };
+ 
 
   // const data = JSON.parse(jsonTokens);
   const rows = Object.entries(jsonTokens.global.spacings).map(([fontName, fontData]) => (

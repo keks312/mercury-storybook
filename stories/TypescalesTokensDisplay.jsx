@@ -5,13 +5,6 @@ import jsonTokens from './tokens.json';
 
 const TypescalesTokensDisplay = () => {
 
-  // // Flatten the structure
-  // const result = Object.values(jsonTokens.global).reduce((acc, tokens) => {
-  //   Object.assign(acc, tokens);
-  //   return acc;
-  // }, {});
-
-  // const colorTokens = result;
 
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredTokens, setFilteredTokens] = useState(jsonTokens.global.typescales);
