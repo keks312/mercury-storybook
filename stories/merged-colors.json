@@ -1,0 +1,908 @@
+{
+  "color": {
+    "t1": {
+      "white": {
+        "value": "#ffffffff",
+        "darkValue": "#ffffffff",
+        "originalLight": "#ffffff",
+        "originalDark": "#ffffff",
+        "token_type": "t1"
+      },
+      "black": {
+        "value": "#000000ff",
+        "darkValue": "#000000ff",
+        "originalLight": "#000000",
+        "originalDark": "#000000",
+        "token_type": "t1"
+      },
+      "whiteInverse": {
+        "value": "#ffffffff",
+        "darkValue": "#000000ff",
+        "originalLight": "#ffffff",
+        "originalDark": "#000000",
+        "token_type": "t1"
+      },
+      "blackInverse": {
+        "value": "#000000ff",
+        "darkValue": "#ffffffff",
+        "originalLight": "#000000",
+        "originalDark": "#ffffff",
+        "token_type": "t1"
+      },
+      "red800": {
+        "value": "#4d141fff",
+        "darkValue": "#4d141fff",
+        "originalLight": "#4d141f",
+        "originalDark": "#4d141f",
+        "token_type": "t1"
+      },
+      "red600": {
+        "value": "#9e0719ff",
+        "darkValue": "#9e0719ff",
+        "originalLight": "#9e0719",
+        "originalDark": "#9e0719",
+        "token_type": "t1"
+      },
+      "red500": {
+        "value": "#d40921ff",
+        "darkValue": "#d40921ff",
+        "originalLight": "#d40921",
+        "originalDark": "#d40921",
+        "token_type": "t1"
+      },
+      "red400": {
+        "value": "#e50b37ff",
+        "darkValue": "#e50b37ff",
+        "originalLight": "#e50b37",
+        "originalDark": "#e50b37",
+        "token_type": "t1"
+      },
+      "red50": {
+        "value": "#fbe6e9ff",
+        "darkValue": "#fbe6e9ff",
+        "originalLight": "#fbe6e9",
+        "originalDark": "#fbe6e9",
+        "token_type": "t1"
+      },
+      "green800": {
+        "value": "#0b4828ff",
+        "darkValue": "#0b4828ff",
+        "originalLight": "#0b4828",
+        "originalDark": "#0b4828",
+        "token_type": "t1"
+      },
+      "green500": {
+        "value": "#077e3aff",
+        "darkValue": "#077e3aff",
+        "originalLight": "#077e3a",
+        "originalDark": "#077e3a",
+        "token_type": "t1"
+      },
+      "green200": {
+        "value": "#1ce57dff",
+        "darkValue": "#1ce57dff",
+        "originalLight": "#1ce57d",
+        "originalDark": "#1ce57d",
+        "token_type": "t1"
+      },
+      "green50": {
+        "value": "#e6f2ebff",
+        "darkValue": "#e6f2ebff",
+        "originalLight": "#e6f2eb",
+        "originalDark": "#e6f2eb",
+        "token_type": "t1"
+      },
+      "orange800": {
+        "value": "#4d260fff",
+        "darkValue": "#4d260fff",
+        "originalLight": "#4d260f",
+        "originalDark": "#4d260f",
+        "token_type": "t1"
+      },
+      "orange500": {
+        "value": "#dd6506ff",
+        "darkValue": "#dd6506ff",
+        "originalLight": "#dd6506",
+        "originalDark": "#dd6506",
+        "token_type": "t1"
+      },
+      "orange400": {
+        "value": "#ff7f31ff",
+        "darkValue": "#ff7f31ff",
+        "originalLight": "#ff7f31",
+        "originalDark": "#ff7f31",
+        "token_type": "t1"
+      },
+      "orange50": {
+        "value": "#fcf0e6ff",
+        "darkValue": "#fcf0e6ff",
+        "originalLight": "#fcf0e6",
+        "originalDark": "#fcf0e6",
+        "token_type": "t1"
+      },
+      "trueBlue800": {
+        "value": "#03284dff",
+        "darkValue": "#03284dff",
+        "originalLight": "#03284d",
+        "originalDark": "#03284d",
+        "token_type": "t1"
+      },
+      "trueBlue500": {
+        "value": "#0072e2ff",
+        "darkValue": "#0072e2ff",
+        "originalLight": "#0072e2",
+        "originalDark": "#0072e2",
+        "token_type": "t1"
+      },
+      "trueBlue400": {
+        "value": "#0a84ffff",
+        "darkValue": "#0a84ffff",
+        "originalLight": "#0a84ff",
+        "originalDark": "#0a84ff",
+        "token_type": "t1"
+      },
+      "trueBlue50": {
+        "value": "#e6f1fcff",
+        "darkValue": "#e6f1fcff",
+        "originalLight": "#e6f1fc",
+        "originalDark": "#e6f1fc",
+        "token_type": "t1"
+      },
+      "turquoise500": {
+        "value": "#188092ff",
+        "darkValue": "#188092ff",
+        "originalLight": "#188092",
+        "originalDark": "#188092",
+        "token_type": "t1"
+      },
+      "turquoise300": {
+        "value": "#00d7b4ff",
+        "darkValue": "#00d7b4ff",
+        "originalLight": "#00d7b4",
+        "originalDark": "#00d7b4",
+        "token_type": "t1"
+      },
+      "yellow500": {
+        "value": "#ffd200ff",
+        "darkValue": "#ffd200ff",
+        "originalLight": "#ffd200",
+        "originalDark": "#ffd200",
+        "token_type": "t1"
+      },
+      "deepPurple500": {
+        "value": "#644edbff",
+        "darkValue": "#644edbff",
+        "originalLight": "#644edb",
+        "originalDark": "#644edb",
+        "token_type": "t1"
+      },
+      "deepPurple450": {
+        "value": "#774bffff",
+        "darkValue": "#774bffff",
+        "originalLight": "#774bff",
+        "originalDark": "#774bff",
+        "token_type": "t1"
+      },
+      "teal500": {
+        "value": "#23b6ffff",
+        "darkValue": "#23b6ffff",
+        "originalLight": "#23b6ff",
+        "originalDark": "#23b6ff",
+        "token_type": "t1"
+      },
+      "teal450": {
+        "value": "#4fbbffff",
+        "darkValue": "#4fbbffff",
+        "originalLight": "#4fbbff",
+        "originalDark": "#4fbbff",
+        "token_type": "t1"
+      },
+      "blue600": {
+        "value": "#071122ff",
+        "darkValue": "#071122ff",
+        "originalLight": "#071122",
+        "originalDark": "#071122",
+        "token_type": "t1"
+      },
+      "blue575": {
+        "value": "#0e1c33ff",
+        "darkValue": "#0e1c33ff",
+        "originalLight": "#0e1c33",
+        "originalDark": "#0e1c33",
+        "token_type": "t1"
+      },
+      "blue550": {
+        "value": "#152643ff",
+        "darkValue": "#152643ff",
+        "originalLight": "#152643",
+        "originalDark": "#152643",
+        "token_type": "t1"
+      },
+      "blue500": {
+        "value": "#112850ff",
+        "darkValue": "#112850ff",
+        "originalLight": "#112850",
+        "originalDark": "#112850",
+        "token_type": "t1"
+      },
+      "blue450": {
+        "value": "#283d62ff",
+        "darkValue": "#283d62ff",
+        "originalLight": "#283d62",
+        "originalDark": "#283d62",
+        "token_type": "t1"
+      },
+      "blue400": {
+        "value": "#425475ff",
+        "darkValue": "#425475ff",
+        "originalLight": "#425475",
+        "originalDark": "#425475",
+        "token_type": "t1"
+      },
+      "blue300": {
+        "value": "#7a88a0ff",
+        "darkValue": "#7a88a0ff",
+        "originalLight": "#7a88a0",
+        "originalDark": "#7a88a0",
+        "token_type": "t1"
+      },
+      "blue200": {
+        "value": "#b9c0cfff",
+        "darkValue": "#b9c0cfff",
+        "originalLight": "#b9c0cf",
+        "originalDark": "#b9c0cf",
+        "token_type": "t1"
+      },
+      "blue100": {
+        "value": "#eaedf4ff",
+        "darkValue": "#eaedf4ff",
+        "originalLight": "#eaedf4",
+        "originalDark": "#eaedf4",
+        "token_type": "t1"
+      },
+      "blue50": {
+        "value": "#f7f8fbff",
+        "darkValue": "#f7f8fbff",
+        "originalLight": "#f7f8fb",
+        "originalDark": "#f7f8fb",
+        "token_type": "t1"
+      },
+      "blue10": {
+        "value": "#fcfcfdff",
+        "darkValue": "#fcfcfdff",
+        "originalLight": "#fcfcfd",
+        "originalDark": "#fcfcfd",
+        "token_type": "t1"
+      },
+      "grey900": {
+        "value": "#2b2f36ff",
+        "darkValue": "#2b2f36ff",
+        "originalLight": "#2b2f36",
+        "originalDark": "#2b2f36",
+        "token_type": "t1"
+      },
+      "grey800": {
+        "value": "#3d434dff",
+        "darkValue": "#3d434dff",
+        "originalLight": "#3d434d",
+        "originalDark": "#3d434d",
+        "token_type": "t1"
+      },
+      "grey700": {
+        "value": "#4f5664ff",
+        "darkValue": "#4f5664ff",
+        "originalLight": "#4f5664",
+        "originalDark": "#4f5664",
+        "token_type": "t1"
+      },
+      "grey600": {
+        "value": "#616a7bff",
+        "darkValue": "#616a7bff",
+        "originalLight": "#616a7b",
+        "originalDark": "#616a7b",
+        "token_type": "t1"
+      },
+      "grey500": {
+        "value": "#737e91ff",
+        "darkValue": "#737e91ff",
+        "originalLight": "#737e91",
+        "originalDark": "#737e91",
+        "token_type": "t1"
+      },
+      "grey400": {
+        "value": "#8a93a3ff",
+        "darkValue": "#8a93a3ff",
+        "originalLight": "#8a93a3",
+        "originalDark": "#8a93a3",
+        "token_type": "t1"
+      },
+      "grey300": {
+        "value": "#a1a8b5ff",
+        "darkValue": "#a1a8b5ff",
+        "originalLight": "#a1a8b5",
+        "originalDark": "#a1a8b5",
+        "token_type": "t1"
+      },
+      "grey200": {
+        "value": "#b8bdc7ff",
+        "darkValue": "#b8bdc7ff",
+        "originalLight": "#b8bdc7",
+        "originalDark": "#b8bdc7",
+        "token_type": "t1"
+      },
+      "grey100": {
+        "value": "#cfd2d9ff",
+        "darkValue": "#cfd2d9ff",
+        "originalLight": "#cfd2d9",
+        "originalDark": "#cfd2d9",
+        "token_type": "t1"
+      },
+      "grey50": {
+        "value": "#dadde2ff",
+        "darkValue": "#dadde2ff",
+        "originalLight": "#dadde2",
+        "originalDark": "#dadde2",
+        "token_type": "t1"
+      },
+      "grey20": {
+        "value": "#f8f8f9ff",
+        "darkValue": "#f8f8f9ff",
+        "originalLight": "#f8f8f9",
+        "originalDark": "#f8f8f9",
+        "token_type": "t1"
+      },
+      "purple600": {
+        "value": "#3a0154ff",
+        "darkValue": "#3a0154ff",
+        "originalLight": "#3a0154",
+        "originalDark": "#3a0154",
+        "token_type": "t1"
+      },
+      "purple500": {
+        "value": "#4b006eff",
+        "darkValue": "#4b006eff",
+        "originalLight": "#4b006e",
+        "originalDark": "#4b006e",
+        "token_type": "t1"
+      },
+      "purple400": {
+        "value": "#8364cbff",
+        "darkValue": "#8364cbff",
+        "originalLight": "#8364cb",
+        "originalDark": "#8364cb",
+        "token_type": "t1"
+      },
+      "purple300": {
+        "value": "#a38fffff",
+        "darkValue": "#a38fffff",
+        "originalLight": "#a38fff",
+        "originalDark": "#a38fff",
+        "token_type": "t1"
+      },
+      "purple200": {
+        "value": "#dfd9ffff",
+        "darkValue": "#dfd9ffff",
+        "originalLight": "#dfd9ff",
+        "originalDark": "#dfd9ff",
+        "token_type": "t1"
+      },
+      "purple100": {
+        "value": "#f6f5ffff",
+        "darkValue": "#f6f5ffff",
+        "originalLight": "#f6f5ff",
+        "originalDark": "#f6f5ff",
+        "token_type": "t1"
+      },
+      "pink600": {
+        "value": "#af0f4eff",
+        "darkValue": "#af0f4eff",
+        "originalLight": "#af0f4e",
+        "originalDark": "#af0f4e",
+        "token_type": "t1"
+      },
+      "pink500": {
+        "value": "#e31465ff",
+        "darkValue": "#e31465ff",
+        "originalLight": "#e31465",
+        "originalDark": "#e31465",
+        "token_type": "t1"
+      },
+      "pink200": {
+        "value": "#f47eacff",
+        "darkValue": "#f47eacff",
+        "originalLight": "#f47eac",
+        "originalDark": "#f47eac",
+        "token_type": "t1"
+      },
+      "pink100": {
+        "value": "#ffb2d1ff",
+        "darkValue": "#ffb2d1ff",
+        "originalLight": "#ffb2d1",
+        "originalDark": "#ffb2d1",
+        "token_type": "t1"
+      },
+      "pink50": {
+        "value": "#fef3f7ff",
+        "darkValue": "#fef3f7ff",
+        "originalLight": "#fef3f7",
+        "originalDark": "#fef3f7",
+        "token_type": "t1"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "darkValue": "#ffffff00",
+        "originalLight": "#ffffff00",
+        "originalDark": "#ffffff00",
+        "token_type": "t1"
+      },
+      "whiteOpacity90": {
+        "value": "#ffffffe6",
+        "darkValue": "#ffffffe6",
+        "originalLight": "#ffffffe6",
+        "originalDark": "#ffffffe6",
+        "token_type": "t1"
+      },
+      "whiteOpacity70": {
+        "value": "#ffffffB3",
+        "darkValue": "#ffffffB3",
+        "originalLight": "#ffffffB3",
+        "originalDark": "#ffffffB3",
+        "token_type": "t1"
+      },
+      "whiteOpacity50": {
+        "value": "#ffffff80",
+        "darkValue": "#ffffff80",
+        "originalLight": "#ffffff80",
+        "originalDark": "#ffffff80",
+        "token_type": "t1"
+      },
+      "whiteOpacity30": {
+        "value": "#ffffff4D",
+        "darkValue": "#ffffff4D",
+        "originalLight": "#ffffff4D",
+        "originalDark": "#ffffff4D",
+        "token_type": "t1"
+      },
+      "blackOpacity90": {
+        "value": "#000000E6",
+        "darkValue": "#000000E6",
+        "originalLight": "#000000E6",
+        "originalDark": "#000000E6",
+        "token_type": "t1"
+      },
+      "blackOpacity70": {
+        "value": "#000000B3",
+        "darkValue": "#000000B3",
+        "originalLight": "#000000B3",
+        "originalDark": "#000000B3",
+        "token_type": "t1"
+      },
+      "blackOpacity50": {
+        "value": "#00000080",
+        "darkValue": "#00000080",
+        "originalLight": "#00000080",
+        "originalDark": "#00000080",
+        "token_type": "t1"
+      },
+      "blackOpacity30": {
+        "value": "#0000004D",
+        "darkValue": "#0000004D",
+        "originalLight": "#0000004D",
+        "originalDark": "#0000004D",
+        "token_type": "t1"
+      }
+    },
+    "t2": {
+      "accent": {
+        "value": "#e31465ff",
+        "darkValue": "#e31465ff",
+        "originalLight": "{color.t1.pink500}",
+        "originalDark": "{color.t1.pink500}",
+        "token_type": "t2"
+      },
+      "contentPrimary": {
+        "value": "#112850ff",
+        "darkValue": "#eaedf4ff",
+        "originalLight": "{color.t1.blue500}",
+        "originalDark": "{color.t1.blue100}",
+        "token_type": "t2"
+      },
+      "contentSecondary": {
+        "value": "#425475ff",
+        "darkValue": "#b9c0cfff",
+        "originalLight": "{color.t1.blue400}",
+        "originalDark": "{color.t1.blue200}",
+        "token_type": "t2"
+      },
+      "contentTertiary": {
+        "value": "#7a88a0ff",
+        "darkValue": "#7a88a0ff",
+        "originalLight": "{color.t1.blue300}",
+        "originalDark": "{color.t1.blue300}",
+        "token_type": "t2"
+      },
+      "contentQuaternary": {
+        "value": "#b9c0cfff",
+        "darkValue": "#425475ff",
+        "originalLight": "{color.t1.blue200}",
+        "originalDark": "{color.t1.blue400}",
+        "token_type": "t2"
+      },
+      "contentLighted": {
+        "value": "#ffffffff",
+        "darkValue": "#eaedf4ff",
+        "originalLight": "{color.t1.white}",
+        "originalDark": "{color.t1.blue100}",
+        "token_type": "t2"
+      },
+      "contentDarked": {
+        "value": "#112850ff",
+        "darkValue": "#425475ff",
+        "originalLight": "{color.t1.blue500}",
+        "originalDark": "{color.t1.blue400}",
+        "token_type": "t2"
+      },
+      "contentInverse": {
+        "value": "#ffffffff",
+        "darkValue": "#112850ff",
+        "originalLight": "{color.t1.white}",
+        "originalDark": "{color.t1.blue500}",
+        "token_type": "t2"
+      },
+      "inactive": {
+        "value": "#7a88a0ff",
+        "darkValue": "#425475ff",
+        "originalLight": "{color.t1.blue300}",
+        "originalDark": "{color.t1.blue400}",
+        "token_type": "t2"
+      },
+      "successPrimary": {
+        "value": "#077e3aff",
+        "darkValue": "#1ce57dff",
+        "originalLight": "{color.t1.green500}",
+        "originalDark": "{color.t1.green200}",
+        "token_type": "t2"
+      },
+      "successSecondary": {
+        "value": "#e6f2ebff",
+        "darkValue": "#0b4828ff",
+        "originalLight": "{color.t1.green50}",
+        "originalDark": "{color.t1.green800}",
+        "token_type": "t2"
+      },
+      "errorPrimary": {
+        "value": "#d40921ff",
+        "darkValue": "#e50b37ff",
+        "originalLight": "{color.t1.red500}",
+        "originalDark": "{color.t1.red400}",
+        "token_type": "t2"
+      },
+      "errorSecondary": {
+        "value": "#fbe6e9ff",
+        "darkValue": "#4d141fff",
+        "originalLight": "{color.t1.red50}",
+        "originalDark": "{color.t1.red800}",
+        "token_type": "t2"
+      },
+      "warningPrimary": {
+        "value": "#dd6506ff",
+        "darkValue": "#ff7f31ff",
+        "originalLight": "{color.t1.orange500}",
+        "originalDark": "{color.t1.orange400}",
+        "token_type": "t2"
+      },
+      "warningSecondary": {
+        "value": "#fcf0e6ff",
+        "darkValue": "#4d260fff",
+        "originalLight": "{color.t1.orange50}",
+        "originalDark": "{color.t1.orange800}",
+        "token_type": "t2"
+      },
+      "informationPrimary": {
+        "value": "#0072e2ff",
+        "darkValue": "#0a84ffff",
+        "originalLight": "{color.t1.trueBlue500}",
+        "originalDark": "{color.t1.trueBlue400}",
+        "token_type": "t2"
+      },
+      "informationSecondary": {
+        "value": "#e6f1fcff",
+        "darkValue": "#03284dff",
+        "originalLight": "{color.t1.trueBlue50}",
+        "originalDark": "{color.t1.trueBlue800}",
+        "token_type": "t2"
+      },
+      "disabledPrimary": {
+        "value": "#a1a8b5ff",
+        "darkValue": "#616a7bff",
+        "originalLight": "{color.t1.grey300}",
+        "originalDark": "{color.t1.grey600}",
+        "token_type": "t2"
+      },
+      "disabledSecondary": {
+        "value": "#dadde2ff",
+        "darkValue": "#3d434dff",
+        "originalLight": "{color.t1.grey50}",
+        "originalDark": "{color.t1.grey800}",
+        "token_type": "t2"
+      },
+      "disabledTertiary": {
+        "value": "#a1a8b5ff",
+        "darkValue": "#4f5664ff",
+        "originalLight": "{color.t1.grey300}",
+        "originalDark": "{color.t1.grey700}",
+        "token_type": "t2"
+      },
+      "disabledQuaternary": {
+        "value": "#f8f8f9ff",
+        "darkValue": "#2b2f36ff",
+        "originalLight": "{color.t1.grey20}",
+        "originalDark": "{color.t1.grey900}",
+        "token_type": "t2"
+      },
+      "decorativeShopmium": {
+        "value": "#ff1061ff",
+        "darkValue": "#ff1061ff",
+        "originalLight": "#ff1061",
+        "originalDark": "#ff1061",
+        "token_type": "t2"
+      },
+      "decorativeInstagram": {
+        "value": "#f50000ff",
+        "darkValue": "#f50000ff",
+        "originalLight": "#f50000",
+        "originalDark": "#f50000",
+        "token_type": "t2"
+      },
+      "decorativeFacebook": {
+        "value": "#1877f2ff",
+        "darkValue": "#1877f2ff",
+        "originalLight": "#1877f2",
+        "originalDark": "#1877f2",
+        "token_type": "t2"
+      },
+      "decorativeTwitter": {
+        "value": "#1d9bf0ff",
+        "darkValue": "#1d9bf0ff",
+        "originalLight": "#1d9bf0",
+        "originalDark": "#1d9bf0",
+        "token_type": "t2"
+      },
+      "decorativePaypal": {
+        "value": "#0070baff",
+        "darkValue": "#0070baff",
+        "originalLight": "#0070ba",
+        "originalDark": "#0070ba",
+        "token_type": "t2"
+      },
+      "decorativeSnapchat": {
+        "value": "#fffc00ff",
+        "darkValue": "#fffc00ff",
+        "originalLight": "#fffc00",
+        "originalDark": "#fffc00",
+        "token_type": "t2"
+      },
+      "decorativeWhatsapp": {
+        "value": "#25d366ff",
+        "darkValue": "#25d366ff",
+        "originalLight": "#25d366",
+        "originalDark": "#25d366",
+        "token_type": "t2"
+      },
+      "decorativeVenmo": {
+        "value": "#3d8af7ff",
+        "darkValue": "#3d8af7ff",
+        "originalLight": "#3d8af7",
+        "originalDark": "#3d8af7",
+        "token_type": "t2"
+      },
+      "clubTertiary": {
+        "value": "#ffd200ff",
+        "darkValue": "#ffd200ff",
+        "originalLight": "{color.t1.yellow500}",
+        "originalDark": "{color.t1.yellow500}",
+        "token_type": "t2"
+      },
+      "clubSecondary": {
+        "value": "#a38fffff",
+        "darkValue": "#a38fffff",
+        "originalLight": "{color.t1.purple300}",
+        "originalDark": "{color.t1.purple300}",
+        "token_type": "t2"
+      },
+      "clubPrimary": {
+        "value": "#4b006eff",
+        "darkValue": "#4b006eff",
+        "originalLight": "{color.t1.purple500}",
+        "originalDark": "{color.t1.purple500}",
+        "token_type": "t2"
+      },
+      "clubContentPrimary": {
+        "value": "#4b006eff",
+        "darkValue": "#a38fffff",
+        "originalLight": "{color.t1.purple500}",
+        "originalDark": "{color.t1.purple300}",
+        "token_type": "t2"
+      },
+      "bgBody": {
+        "value": "#fcfcfdff",
+        "darkValue": "#0e1c33ff",
+        "originalLight": "{color.t1.blue10}",
+        "originalDark": "{color.t1.blue575}",
+        "token_type": "t2"
+      },
+      "bgPrimary": {
+        "value": "#ffffffff",
+        "darkValue": "#0e1c33ff",
+        "originalLight": "{color.t1.white}",
+        "originalDark": "{color.t1.blue575}",
+        "token_type": "t2"
+      },
+      "bgSecondary": {
+        "value": "#ffffffff",
+        "darkValue": "#152643ff",
+        "originalLight": "{color.t1.white}",
+        "originalDark": "{color.t1.blue550}",
+        "token_type": "t2"
+      },
+      "bgTertiary": {
+        "value": "#1128500D",
+        "darkValue": "#ffffff12",
+        "originalLight": "#1128500D",
+        "originalDark": "#ffffff12",
+        "token_type": "t2"
+      },
+      "bgQuaternary": {
+        "value": "#11285026",
+        "darkValue": "#ffffff33",
+        "originalLight": "#11285026",
+        "originalDark": "#ffffff33",
+        "token_type": "t2"
+      },
+      "bgQuinary": {
+        "value": "#112850cc",
+        "darkValue": "#eaedf4cc",
+        "originalLight": "#112850cc",
+        "originalDark": "#eaedf4cc",
+        "token_type": "t2"
+      },
+      "bgElevated": {
+        "value": "#fcfcfdff",
+        "darkValue": "#283d62ff",
+        "originalLight": "{color.t1.blue10}",
+        "originalDark": "{color.t1.blue450}",
+        "token_type": "t2"
+      },
+      "overlayPrimary": {
+        "value": "#00000080",
+        "darkValue": "#00000099",
+        "originalLight": "#00000080",
+        "originalDark": "#00000099",
+        "token_type": "t2"
+      },
+      "overlaySecondary": {
+        "value": "#11285026",
+        "darkValue": "#ffffff26",
+        "originalLight": "#11285026",
+        "originalDark": "#ffffff26",
+        "token_type": "t2"
+      },
+      "borderPrimary": {
+        "value": "#eaedf4ff",
+        "darkValue": "#283d62ff",
+        "originalLight": "{color.t1.blue100}",
+        "originalDark": "{color.t1.blue450}",
+        "token_type": "t2"
+      },
+      "borderSecondary": {
+        "value": "#e31465ff",
+        "darkValue": "#e31465ff",
+        "originalLight": "{color.t2.accent}",
+        "originalDark": "{color.t2.accent}",
+        "token_type": "t2"
+      },
+      "borderTertiary": {
+        "value": "#b9c0cfff",
+        "darkValue": "#425475ff",
+        "originalLight": "{color.t1.blue200}",
+        "originalDark": "{color.t1.blue400}",
+        "token_type": "t2"
+      },
+      "borderFocus": {
+        "value": "#b9c0cfff",
+        "darkValue": "#7a88a0ff",
+        "originalLight": "{color.t1.blue200}",
+        "originalDark": "{color.t1.blue300}",
+        "token_type": "t2"
+      },
+      "bgSenary": {
+        "value": "#FFFFFFCC",
+        "darkValue": "#152643CC",
+        "originalLight": "#FFFFFFCC",
+        "originalDark": "#152643CC",
+        "token_type": "t2"
+      },
+      "bgSeptenary": {
+        "value": "#112850F2",
+        "darkValue": "#FFFFFFF2",
+        "originalLight": "#112850F2",
+        "originalDark": "#FFFFFFF2",
+        "token_type": "t2"
+      },
+      "contentPrimaryDarked": {
+        "value": "#112850ff",
+        "darkValue": "#112850ff",
+        "originalLight": "{color.t1.blue500}",
+        "originalDark": "{color.t1.blue500}",
+        "token_type": "t2"
+      },
+      "contentSecondaryDarked": {
+        "value": "#425475ff",
+        "darkValue": "#425475ff",
+        "originalLight": "{color.t1.blue400}",
+        "originalDark": "{color.t1.blue400}",
+        "token_type": "t2"
+      },
+      "bgBodyOpacity80": {
+        "value": "#fcfcfdcc",
+        "darkValue": "#0e1c33cc",
+        "originalLight": "{color.t2.bgBody}",
+        "originalDark": "{color.t2.bgBody}",
+        "token_type": "t2",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "t3": {
+      "bgTooltipSdk": {
+        "value": "#ffffffcc",
+        "darkValue": "#ffffffcc",
+        "originalLight": "#ffffffcc",
+        "originalDark": "#ffffffcc",
+        "token_type": "t3"
+      },
+      "bgIndicator": {
+        "value": "#00000033",
+        "darkValue": "#00000033",
+        "originalLight": "#00000033",
+        "originalDark": "#00000033",
+        "token_type": "t3"
+      },
+      "roundedButton": {
+        "value": "#42547599",
+        "darkValue": "#42547599",
+        "originalLight": "#42547599",
+        "originalDark": "#42547599",
+        "token_type": "t3"
+      },
+      "bgHandle": {
+        "value": "#3C3C434D",
+        "darkValue": "#ebebf54d",
+        "originalLight": "#3C3C434D",
+        "originalDark": "#ebebf54d",
+        "token_type": "t3"
+      },
+      "matchOverlaySecondary": {
+        "value": "#0072E233",
+        "darkValue": "#0A84FF33",
+        "originalLight": "#0072E233",
+        "originalDark": "#0A84FF33",
+        "token_type": "t3"
+      },
+      "matchOverlayPrimary": {
+        "value": "#D4092133",
+        "darkValue": "#E50B3733",
+        "originalLight": "#D4092133",
+        "originalDark": "#E50B3733",
+        "token_type": "t3"
+      }
+    }
+  }
+}

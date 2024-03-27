@@ -1,0 +1,157 @@
+@import url('https://fonts.cdnfonts.com/css/open-sauce-one');
+
+body{
+  font-family: 'Open Sauce One', sans-serif;
+  font-size: 14px;
+  color: #112850;
+}
+
+.tabsContainer{
+  display: flex;
+  width: fit-content;
+  margin: auto;
+  padding: 8px;
+  background-color: #ffffff;
+  border: 1px solid #CCCCCC;
+  border-radius: 48px;
+  margin: 0 auto 30px auto;
+}
+
+.tabsContainer .tab{
+  display: flex;
+  background-color: #ffffff;
+  color: #112850;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  height: 44px;
+  width: 170px;
+  padding: 8px;
+  border-radius: 48px;
+  margin: auto 8px;
+}
+
+.tabsContainer .tab:hover{
+  background-color: #E3146533;
+  cursor: pointer;
+}
+
+.tabsContainer .tab.active{
+  background-color: #E31465;
+  color: #ffffff;
+}
+
+table{
+  border: 1px solid #ddd; 
+  width: 100%;
+}
+
+table thead{
+  background-color: #1128500D;
+  border-bottom: 1px solid #ddd;
+  height: 48px;
+}
+
+table td{
+  border-bottom: 1px solid #ddd; 
+  padding: 8px;
+}
+
+.previewContainer {
+  display: flex;
+  align-items: center;
+}
+
+.previewContainer div {
+  margin: 0 8px;
+}
+
+.preview {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #CCCCCC;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+.spacing_preview{
+  background-color: #11285033;
+}
+
+.tooltip {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  z-index: 999;
+  margin: 0;
+  font-size: .8rem;
+  padding:8px;
+}
+
+
+/* Tooltip arrow */
+.tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.8) transparent transparent transparent;
+}
+
+
+.grid {
+  content: "";
+  display: block;
+  position: relative;
+  z-index: -1;
+  top: 0;
+  left: -8px;
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  background-image: url('assets/grid.png');
+  background-size: contain;
+}
+
+.textColor{
+  padding: 10px;
+  display: inline-block;
+  background: rgb(248, 248, 248);
+    padding: 4px 8px;
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 4px;
+}
+
+.copy_icon{
+  margin-left: 8px;
+}
+
+.copy_icon:hover{
+  cursor: pointer;
+}
+
+.textColor:hover{
+  background-color: #D4D9E8;
+}
+
+input{
+  width: -webkit-fill-available;
+  background-color : #1128500D;
+  padding: 8px 8px 8px 40px;
+  border: 2px solid transparent;
+  border-radius: 16px;
+  color: rgb(25, 32, 56);
+  font-size: 15px;
+  font-weight:  600;
+  height: 24px;
+  letter-spacing: normal;
+  line-height: 24px;
+  background: #1128500D url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+input:focus-visible{
+  outline: 1px solid #B9C0CF;
+}
